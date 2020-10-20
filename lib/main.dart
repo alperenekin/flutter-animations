@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import 'anitmation_view.dart';
+
 void main() {
   runApp(MyApp());
 }
